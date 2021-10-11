@@ -1,5 +1,5 @@
 app:
-  applicationId: ${APP_ID:a919a264-de99-4087-b3b4-5939104caf9f}
+  applicationId: ${APP_ID:3e0a21e6-4704-4c17-8047-412be75feef0}
   env: Development
   host: http://localhost:3000
 
